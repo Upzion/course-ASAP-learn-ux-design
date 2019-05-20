@@ -4,7 +4,7 @@ One of the most important things you need to do before you start planning your p
 
 Each stakeholder has different objectives and responsibility, according to their roles and tasks. At this point it is extremely important to understand where you can get the information from and who can help you in different contexts. 
 
-This valuable information is how company knowledge is spread across different people working into the company or organization. Each one has a different point of view, even if all of them are targeting the same objectives and goals. 
+This valuable information is how company knowledge is spread across different people working in the company or organization. Each one has a different point of view, even if all of them are targeting the same objectives and goals. 
 
 i.e. Getting content for different sections (writing texts, finding the right pictures, etc.) or even to understand the next steps the company is going to take. All this information is relevant. You should know about the past, present and future of the company, and what the direction is taking. This kind of information is extremely relevant and will help you generate a better strategy for your project, and how to move within the company or organization. 
 
@@ -29,15 +29,15 @@ We need to understand…
 
 ### Company goals
 
-There are major goals the project aims to achieve, what the company is trying to get from it. Company goals allows you to understand if you are achieving the objectives. 
+There are major goals the project aims to achieve and what the company is trying to get from it. Company goals allows you to understand if you are achieving the objectives. 
 
-To measure objectives and goals is good to use metrics, measuring if users achieve assigned objectives and the time they spend to do so. Once we have a vision of past and present, we can measure and compare.
+To measure objectives and goals it is good to use metrics, measuring if users achieve assigned objectives and the time they spend to do so. Once we have a vision of past and present, we can measure and compare.
 
 
 ### Tools
 Interesting tools to capture information from stakeholders about objectives and goals; you can use these tools or the ones you prefer. These ones actually work. 
 
-    * Product canvas to capture information from differnet stakeholders - https://www.romanpichler.com/blog/the-product-canvas/
-    * Lean UX canvas - http://scopecanvas.com/en
-    * Leaner UX canvas - http://scopecanvas.com/en
+    * Product canvas to capture information from different stakeholders - https://www.romanpichler.com/blog/the-product-canvas/
+    * Learn UX canvas - http://scopecanvas.com/en
+    * Learn UX canvas - http://scopecanvas.com/en
     * Stakeholders interview checklist - http://boxesandarrows.com/a-stakeholder-interview-checklist/
